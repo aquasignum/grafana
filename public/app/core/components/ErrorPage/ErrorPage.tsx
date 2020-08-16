@@ -64,8 +64,8 @@ export class ErrorPage extends PureComponent<Props> {
                       </p>
                       <p>
                         If the error persists, seek help on the{' '}
-                        <a href="https://community.grafana.com" target="_blank" className="error-link">
-                          community site
+                        <a href="aquasignum.ca" target="_blank" className="error-link">
+                          site
                         </a>
                         .
                       </p>
